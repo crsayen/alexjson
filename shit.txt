@@ -1,4 +1,4 @@
 {"name": "a", "job": 1}
 {"name": "b", "job": 2}
-{"name": "c", "job": 3}
+{"name": "c", "job": 3}{"name": "o", "job": 69}
 {"name": "d", "job": 4}
